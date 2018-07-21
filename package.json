@@ -1,0 +1,19 @@
+{
+  "name": "omnifood",
+  "version": "1.0.0",
+  "description": "Omnifood is a premium food delivery service with the mission to bring affordable and healthy meals to as many people as possible",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "node app/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node":"8.11.2"
+  },
+  "author": "XrayBrain",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
